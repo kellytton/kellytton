@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellytton
-- 👀 I’m interested in software engineering and data science (ML)
-- 🌱 I’m currently a Junior, working towards a Bachelor's Degree in Computer Science at University of South Florida
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently a Senior, working towards a Bachelor's Degree in Computer Science at University of South Florida
 - 💞️ I’m looking to collaborate on future projects!
 - 📫 How to reach me: discord: kelly7, linkedin: linkedin.com/in/kellytton, gmail: kthton@gmail.com
 
