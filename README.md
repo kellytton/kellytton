@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kellytton
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently a Senior, working towards a Bachelor's Degree in Computer Science at University of South Florida
-- 💞️ I’m looking to collaborate on future projects!
-- 📫 How to reach me: discord: kelly7, linkedin: linkedin.com/in/kellytton, gmail: kthton@gmail.com
+## Kelly Ton
+
+I break code. I fix code. I design with purpose and style. Repeat!
+
+🌱 [kellyton.netlify.app](https://kellyton.netlify.app/)
 
 <!---
 kellytton/kellytton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
