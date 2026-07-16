@@ -1,6 +1,6 @@
 ## Kelly Ton
 
-I break code. I fix code. I design with purpose and style. Repeat!
+Making computers do cool things since forever.
 
 🌱 [kellyton.netlify.app](https://kellyton.netlify.app/)
 
