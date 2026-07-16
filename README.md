@@ -2,7 +2,7 @@
 
 Making computers do cool things since forever.
 
-🌱 [kellyton.netlify.app](https://kellyton.netlify.app/)
+🌷 [LinkedIn](https://www.linkedin.com/in/kellytton/) · 🌱 [Portfolio](https://kellyton.netlify.app/)
 
 <!---
 kellytton/kellytton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
